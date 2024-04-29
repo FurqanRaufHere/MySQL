@@ -136,4 +136,5 @@ create table EmployeeSkill (
 );
 insert into EmployeeSkill (EmployeeID, SkillID) values
 (1, 1),
-(2, 2);
+(2, 2),
+(3, 3);
